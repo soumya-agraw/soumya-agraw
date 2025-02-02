@@ -22,7 +22,7 @@ Hello, I'm Soumya. I'm not your typical data person. My background blends data a
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/soumya-agraw/My-Projects/blob/main/README.md).
 
 ### 🛠️ Tools
 
