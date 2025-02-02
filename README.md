@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Hey there!
 
 <!--
 **soumya-agraw/soumya-agraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🙋🏻‍♀️ Introducing Myself
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
 
