@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/soumya-agraw/soumya-agraw/blob/f7139c8c1e4669d69941dc060f5b75f5693ae8e8/header-2.jpeg)
 
 Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modeling. 
 
