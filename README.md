@@ -33,7 +33,10 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/soumy
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/soumya-agrawal)
+- [Email Me](mailto:agrawal.soumya@gmail.com)
 
 
-### 👯 Passion Groups
+### 👯 Communities : 
+
+These are some of the communities that I am proudly part of. 
 - 
