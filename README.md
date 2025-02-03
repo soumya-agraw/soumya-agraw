@@ -36,7 +36,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/soumy
 - [Email Me](mailto:agrawal.soumya@gmail.com)
 
 
-### 👯 Communities : 
+### 👯 Communities
 
-These are some of the communities that I am proudly part of. 
-- 
+These are some of the communities that I am proudly part of:
+**- 
